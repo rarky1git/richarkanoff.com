@@ -23,6 +23,7 @@ h2 {
 }
 
 header {
+    position: sticky;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -65,7 +66,8 @@ div.hero-right {
 }
 
 div.hero-right h1 {
-    font-size: 6em;
+    font-size: 5em;
+    margin: 0;
     line-height: 110px;
 }
 
