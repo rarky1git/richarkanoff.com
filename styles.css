@@ -77,8 +77,7 @@ div.hero-right h1 {
 }
 
 div.hero-right p {
-    font-size: 3em;
-    margin: .25em;
+    font-size: 3em;    
 }
 
 section.page-nav {
@@ -145,7 +144,7 @@ div.about-me-experience {
 div.experience-tile {
     display: flex;
     flex-direction: column;
-    min-width: 15em;
+    min-width: 30em;
 }
 
 div#tile-top {
