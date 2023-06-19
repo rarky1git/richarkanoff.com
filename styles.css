@@ -83,6 +83,7 @@ div.hero-left {
     box-sizing: unset;
     background-image: url("img/ace-card-template.svg");
     background-size: cover;
+    background-position: right;
 }
 
 div.hero-left img {
