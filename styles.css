@@ -24,6 +24,13 @@ header {
     justify-content: space-between;
     align-items: center;
     margin: 0 2em;
+    min-height: 2em;
+    border-bottom: 1em #000 ;
+}
+
+header h1 {
+    font-size: 2em;
+    margin: 0;
 }
 
 a {
@@ -55,7 +62,7 @@ div.hero-right p {
 
 section.page-nav {
     background-color: #B41C13;
-    border: #000 .4em;
+    border: .4em 0 .4em 0 #000 ;
 }
 
 .page-nav nav {
