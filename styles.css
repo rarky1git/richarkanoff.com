@@ -29,8 +29,15 @@ header {
 }
 
 header h1 {
-    font-size: 2em;
+    font-size: 1.5em;
     margin: 0;
+}
+
+header div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 1em;
 }
 
 a {
@@ -49,6 +56,7 @@ div.hero-left {
 
 div.hero-right {
     flex-direction: column;
+    margin: 4em;
 }
 
 div.hero-right h1 {
