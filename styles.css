@@ -80,6 +80,10 @@ div.hero-left {
     box-sizing: unset;
 }
 
+div.hero-left img {
+    width: 140%;
+}
+
 div.hero-right {
     flex-direction: column;
     margin: 8em;
