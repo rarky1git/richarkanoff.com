@@ -139,6 +139,7 @@ div.about-me-experience {
     flex-direction: row;
     gap: 2em;
     flex-wrap: nowrap;
+    overflow-x: auto; /* Add this line */
 }
 
 div.experience-tile {
