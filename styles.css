@@ -51,8 +51,11 @@ header div.section-wrapper {
     justify-content: space-between;
     align-items: center;
     flex-wrap: nowrap;
-    gap: 1em;
     height: fit-content;
+}
+
+header div div {
+    gap: 1em;
 }
 
 header div a {
