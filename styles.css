@@ -92,9 +92,11 @@ div.about-me-experience {
 div.experience-tile {
     display: flex;
     flex-direction: column;
+    min-width: 25%;
 }
 
 div#tile-top {
+    display: flex;
     flex-direction: row;
 }
 
@@ -106,4 +108,8 @@ div#exp-title {
 .flex-left {
     width: 50%;
     flex-direction: column;
+}
+
+.overflow-scroll {
+    overflow-x: scroll;
 }
