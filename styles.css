@@ -140,6 +140,7 @@ div.about-me-experience {
     gap: 2em;
     flex-wrap: nowrap;
     overflow-x: auto; /* Add this line */
+    margin: 2em 0;
 }
 
 div.experience-tile {
