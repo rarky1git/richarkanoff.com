@@ -116,6 +116,7 @@ nav a img {
 section.about-me {
     max-width: 80vw;
     margin: 4em auto;
+    gap: 4em;
 }
 
 div.about-me-overview {
