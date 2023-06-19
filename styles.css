@@ -32,6 +32,7 @@ header {
     padding: 1em;
     min-height: 2em;
     border-bottom: .25em solid #000 ;
+    max-width: 75vw;
 }
 
 header h1 {
