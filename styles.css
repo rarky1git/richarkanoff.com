@@ -2,6 +2,14 @@ html {
     font-family: 'Red Hat Display', sans-serif;
 }
 
+h1 {
+    font-weight: 800;
+}
+
+h2 {
+    font-weight: 600;
+}
+
 header {
     display: flex;
     flex-direction: row;
@@ -30,6 +38,11 @@ div.hero-right {
 
 div.hero-right h1 {
     font-size: 6em;
+    line-height: 110px;
+}
+
+div.hero-right p {
+    font-size: 3em;
 }
 
 section.page-nav {
@@ -55,6 +68,7 @@ nav a {
 
 section.about-me {
     max-width: 75vw;
+    margin: 0 auto;
 }
 
 div.about-me-overview {
