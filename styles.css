@@ -24,7 +24,7 @@ header {
     justify-content: space-between;
     align-items: center;
     margin: 0;
-    padding: 0  2em;
+    padding: 1.5em;
     min-height: 2em;
     border-bottom: .25em solid #000 ;
 }
