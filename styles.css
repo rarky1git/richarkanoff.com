@@ -83,7 +83,7 @@ div.hero-right p {
 section.page-nav {
     position: relative;
     background-color: #B41C13;
-    border-width: 0.2em 0 0.2em 0;
+    border-width: 0.1em 0 0.1em 0;
     border-style: solid;
     border-color: #000;
 }
@@ -92,7 +92,7 @@ section.page-nav {
     display: flex;
     flex-direction: row;
     justify-content: space-around;   
-    padding: 1.5em;
+    padding: .75em;
     width: 100%;
     max-width: 80vw;
     margin: 0 auto;
