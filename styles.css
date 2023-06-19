@@ -1,0 +1,86 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+main section.hero {
+    display: flex;
+    flex-direction: row;
+}
+
+div.hero-left {
+    width: 50%;
+}
+
+div.hero-right {
+    flex-direction: column;
+}
+
+div.hero-right h1 {
+    font-size: 6em;
+}
+
+section.page-nav {
+    background-color: #B41C13;
+    border: #000 .4em;
+}
+
+.page-nav nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;   
+    padding: 1.5em;
+    width: 100%;
+    max-width: 75vw;
+}
+
+nav a {
+    display: flex;
+    flex-direction: column;
+    gap: .25em;
+}
+
+section.about-me {
+    max-width: 75vw;
+}
+
+div.about-me-overview {
+    display: flex;
+    flex-direction: row;
+    font-size: 2em;
+}
+
+div.about-me-overview div h1 {
+    font-size: 5em;
+}
+
+div.about-me-experience {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+
+div.experience-tile {
+    display: flex;
+    flex-direction: column;
+}
+
+div#tile-top {
+    flex-direction: row;
+}
+
+div#exp-title {
+    flex-direction: column;
+    padding: 1em;
+}
+
+.flex-left {
+    width: 50%;
+    flex-direction: column;
+}
