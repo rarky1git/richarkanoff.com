@@ -44,6 +44,11 @@ header div {
     flex-direction: row;
     flex-wrap: nowrap;
     gap: 1em;
+    height: fit-content;
+}
+
+header div a {
+    margin: auto 0;
 }
 
 a {
