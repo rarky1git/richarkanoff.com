@@ -107,6 +107,7 @@ div.about-me-overview {
     display: flex;
     flex-direction: row;
     font-size: 2em;
+    gap: 2em;
 }
 
 div.about-me-overview div h1 {
