@@ -78,12 +78,15 @@ div.hero-right h1 {
 
 div.hero-right p {
     font-size: 3em;
+    margin: .25em;
 }
 
 section.page-nav {
     position: relative;
     background-color: #B41C13;
-    border: .4em 0 .4em 0 solid #000;
+    border-width: 0.4em 0 0.4em 0;
+    border-style: solid;
+    border-color: #000;
 }
 
 .page-nav nav {
@@ -101,18 +104,18 @@ nav a {
     display: flex;
     flex-direction: column;
     gap: .25em;
-    font-size: 1.5em;
+    font-size: 1em;
     align-items: center;
     color: #fff;
 }
 
 nav a img {
-    width: 75px;
+    width: 50px;
 }
 
 section.about-me {
     max-width: 80vw;
-    margin: 2em auto;
+    margin: 4em auto;
 }
 
 div.about-me-overview {
@@ -127,7 +130,7 @@ div.about-me-overview div.flex-left {
 }
 
 div.about-me-overview div h1 {
-    font-size: 3em;
+    font-size: 2em;
     margin: 0;
 }
 
@@ -141,7 +144,7 @@ div.about-me-experience {
 div.experience-tile {
     display: flex;
     flex-direction: column;
-    min-width: 40%;
+    min-width: 15em;
 }
 
 div#tile-top {
