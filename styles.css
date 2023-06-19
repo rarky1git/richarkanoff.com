@@ -153,6 +153,14 @@ div#tile-top {
     flex-direction: row;
 }
 
+div#tile-top h1 {
+    margin: .25em 0;
+}
+
+.tile-bottom {
+    margin: 0;
+}
+
 div#exp-title {
     flex-direction: column;
     padding: 1em;
