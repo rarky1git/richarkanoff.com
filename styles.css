@@ -82,7 +82,7 @@ div.hero-left {
 
 div.hero-right {
     flex-direction: column;
-    margin: 4em;
+    margin: 1em 0 1em 6em;
 }
 
 div.hero-right h1 {
