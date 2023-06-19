@@ -100,7 +100,7 @@ div.about-me-experience {
 div.experience-tile {
     display: flex;
     flex-direction: column;
-    min-width: 25%;
+    min-width: 40%;
 }
 
 div#tile-top {
