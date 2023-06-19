@@ -81,7 +81,8 @@ div.hero-left {
 }
 
 div.hero-left img {
-    width: 140%;
+    height: 100%;
+    width: auto;
 }
 
 div.hero-right {
