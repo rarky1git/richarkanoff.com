@@ -32,7 +32,6 @@ header {
     padding: 1em;
     min-height: 2em;
     border-bottom: .25em solid #000 ;
-    max-width: 75vw;
 }
 
 header h1 {
@@ -166,7 +165,7 @@ div#exp-title {
     padding: 1em;
 }
 
-section div.section-wrapper {
+.section-wrapper {
     max-width: 80vw;
     margin: 0 auto;
 }
