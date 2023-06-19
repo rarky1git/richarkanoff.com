@@ -71,7 +71,7 @@ div.hero-right p {
 
 section.page-nav {
     background-color: #B41C13;
-    border: .4em 0 .4em 0 solid #000 ;
+    border: .4em 0 .4em 0 solid #000;
 }
 
 .page-nav nav {
@@ -90,6 +90,8 @@ nav a {
     flex-direction: column;
     gap: .25em;
     font-size: 1.5em;
+    align-items: center;
+    color: #fff;
 }
 
 nav a img {
