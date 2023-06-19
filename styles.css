@@ -118,6 +118,10 @@ div#exp-title {
     flex-direction: column;
 }
 
+.flex-right {
+    width: 50%;
+}
+
 .overflow-scroll {
     overflow-x: scroll;
 }
