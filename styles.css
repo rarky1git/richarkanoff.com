@@ -110,6 +110,10 @@ div.about-me-overview {
     gap: 2em;
 }
 
+div.about-me-overview div.flex-left {
+    width: 40%;
+}
+
 div.about-me-overview div h1 {
     font-size: 3em;
     margin: 0;
