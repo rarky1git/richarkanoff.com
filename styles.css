@@ -1,7 +1,12 @@
+html {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
 header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
 }
 
 a {
@@ -38,6 +43,7 @@ section.page-nav {
     padding: 1.5em;
     width: 100%;
     max-width: 75vw;
+    margin: 0 auto;
 }
 
 nav a {
@@ -64,6 +70,7 @@ div.about-me-experience {
     display: flex;
     flex-direction: row;
     gap: 2em;
+    flex-wrap: nowrap;
 }
 
 div.experience-tile {
