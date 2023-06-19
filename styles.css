@@ -76,13 +76,13 @@ main section.hero {
 
 div.hero-left {
     width: 50%;
-    padding: 4em;
+    padding: 1em 0 1em 6em;
     box-sizing: unset;
 }
 
 div.hero-right {
     flex-direction: column;
-    margin: 1em 0 1em 6em;
+    margin: 4em;
 }
 
 div.hero-right h1 {
