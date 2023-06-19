@@ -23,7 +23,8 @@ header {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin: 0 2em;
+    margin: 0;
+    padding: 0  2em;
     min-height: 2em;
     border-bottom: .25em solid #000 ;
 }
