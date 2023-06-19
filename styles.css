@@ -79,7 +79,7 @@ section.page-nav {
     justify-content: space-around;   
     padding: 1.5em;
     width: 100%;
-    max-width: 75vw;
+    max-width: 80vw;
     margin: 0 auto;
     color: #fff;
 }
@@ -96,8 +96,8 @@ nav a img {
 }
 
 section.about-me {
-    max-width: 75vw;
-    margin: 0 auto;
+    max-width: 80vw;
+    margin: 2em auto;
 }
 
 div.about-me-overview {
@@ -132,6 +132,10 @@ div#tile-top {
 div#exp-title {
     flex-direction: column;
     padding: 1em;
+}
+
+section div.section-wrapper {
+    max-width: 80vw;
 }
 
 .flex-left {
