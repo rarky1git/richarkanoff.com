@@ -75,6 +75,7 @@ main section.hero {
     display: flex;
     flex-direction: row;
     background-color: #FFD4D4;
+    height: 65vh;
 }
 
 div.hero-left {
@@ -113,7 +114,7 @@ div.hero-right p {
 section.page-nav {
     position: relative;
     background-color: #B41C13;
-    border-width: 0.1em 0 0.1em 0;
+    border-width: 0.25em 0 0.25em 0;
     border-style: solid;
     border-color: #000;
 }
@@ -205,6 +206,7 @@ div#exp-title {
 /* universal classes */
 /* --------------------------------- */
 .section-wrapper {
+    width: 100%;
     max-width: 80vw;
     margin: 0 auto;
 }
