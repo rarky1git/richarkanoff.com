@@ -165,7 +165,7 @@ header.sticky {
 
 .sticky nav a img {
     width: 25px;
-    transition: .8;
+    transition: .8s;
     transition-delay: .5s;
 }
 /* --------------------------------- */
