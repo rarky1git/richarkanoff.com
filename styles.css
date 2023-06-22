@@ -273,14 +273,12 @@ section div.section-wrapper {
 }
 
 section div div.flex-left {
-    width: 60%;
     padding: 5em auto;
     color: #fff;
     font-size: 1.25em;
 }
 
 section div div.flex-right {
-    width: 40%;
 }
 
 /* --------------------------------- */
