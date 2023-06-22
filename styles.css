@@ -30,10 +30,7 @@ h2 {
 /* --------------------------------- */
 header {
     position: sticky;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
+    display: block;
     margin: 0;
     padding: 1em;
     min-height: 2em;
