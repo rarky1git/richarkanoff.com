@@ -261,7 +261,7 @@ div#exp-title {
 
 /* --------------------------------- */
 
-section #consulting + #education {
+#consulting + #education {
     border-width: 0.25em 0 0.25em 0;
     border-style: solid;
     border-color: #000;
@@ -277,7 +277,7 @@ section div.section-wrapper {
 section div div.flex-left {
     margin: 3em;
     color: #fff;
-    font-size: 2.25em;
+    font-size: 1.25em;
 }
 
 /* --------------------------------- */
