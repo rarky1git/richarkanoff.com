@@ -1,6 +1,6 @@
 window.addEventListener('scroll', function() {
     var secondaryHeader = document.querySelector('.page-nav');
-    var topOffset = secondaryHeader.offsetTop - 50;
+    var topOffset = secondaryHeader.offsetTop - 75;
 
     if (window.pageYOffset > topOffset) {
       secondaryHeader.classList.add('sticky');
