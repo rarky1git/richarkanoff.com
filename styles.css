@@ -64,7 +64,7 @@ header div nav {
 }
 
 header div nav a {
-    flex-direction: column;
+    flex-direction: row;
     font-size: .75em;
     gap: .2em;
     color: #000;
