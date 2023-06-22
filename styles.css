@@ -144,23 +144,23 @@ nav a {
     font-size: 1em;
     align-items: center;
     color: #fff;
-    transition: 2s;
-    transition-delay: 2s;
 }
 
 nav a img {
     width: 50px;
-    transition: 2s;
-    transition-delay: 2s;
 }
 
 .sticky nav a {
     font-size: .75em;
     gap: .2em;
+    transition: 2s;
+    transition-delay: 2s;
 }
 
 .sticky nav a img {
     width: 25px;
+    transition: 2s;
+    transition-delay: 2s;
 }
 /* --------------------------------- */
 
