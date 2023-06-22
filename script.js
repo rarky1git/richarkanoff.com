@@ -1,10 +1,11 @@
 window.addEventListener('scroll', function() {
     var secondaryHeader = document.querySelector('.page-nav');
-    var topOffset = secondaryHeader.offsetTop - 75;
+    var primaryHeader = document.querySelector('.primary-nav');
+    var topOffset = secondaryHeader.offsetTop - 30;
 
     if (window.pageYOffset > topOffset) {
-      secondaryHeader.classList.add('sticky');
+      primaryHeader.classList.add('nav-flex-display');
     } else {
-      secondaryHeader.classList.remove('sticky');
+      primaryHeader.classList.remove('nav-flex-display');
     }
   });

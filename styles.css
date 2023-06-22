@@ -56,6 +56,18 @@ header div.section-wrapper {
     align-items: center;
     flex-wrap: nowrap;
     height: fit-content;
+    gap: 3em;
+}
+
+header div nav {
+    display: none;
+}
+
+header div nav.nav-flex-display {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header div div {
