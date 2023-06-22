@@ -274,6 +274,7 @@ section div.section-wrapper {
 }
 
 section div div.flex-left {
+    width: 60%;
     margin: 3em;
     color: #fff;
     font-size: 1.25em;
@@ -282,6 +283,7 @@ section div div.flex-left {
 }
 
 section div div.flex-right {
+    width: 40%;
     background-color: gray;
     clip-path: polygon(25% 0, 100% 0, 100% 100%, 0% 100%);
 }
