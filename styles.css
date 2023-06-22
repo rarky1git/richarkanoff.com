@@ -153,14 +153,14 @@ nav a img {
 .sticky nav a {
     font-size: .75em;
     gap: .2em;
-    transition: 2s;
-    transition-delay: 2s;
+    transition: .8s;
+    transition-delay: .5s;
 }
 
 .sticky nav a img {
     width: 25px;
-    transition: 2s;
-    transition-delay: 2s;
+    transition: .8;
+    transition-delay: .5s;
 }
 /* --------------------------------- */
 
