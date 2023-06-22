@@ -63,6 +63,15 @@ header div nav {
     display: none;
 }
 
+header div nav a {
+    font-size: .75em;
+    gap: .2em;
+}
+
+header div nav img {
+    width: 25px;
+}
+
 header div nav.nav-flex-display {
     display: flex;
     flex-direction: row;
