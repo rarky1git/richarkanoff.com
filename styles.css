@@ -201,12 +201,9 @@ header.sticky {
 
 /* --------------------------------- */
 section.about-me {
-    gap: 4em;
-}
-
-section.about-me div {
     max-width: 80vw;
     margin: 12em auto;
+    gap: 4em;
 }
 
 div.about-me-overview {
