@@ -131,6 +131,7 @@ div.hero-left img {
 
 div.hero-right {
     /* width: 40%; */
+    display: flex;
     flex-direction: column;
     justify-content: center;
     margin: auto 8em auto 24em;
