@@ -36,7 +36,7 @@ header {
     padding: 1em;
     min-height: 2em;
     border-bottom: .25em solid #000 ;
-    background-color: (255,255,255, 0.7);
+    background-color: rgba(255,255,255, 0.7);
 }
 
 header h1 {
@@ -84,7 +84,7 @@ div.hero-left {
     padding: 1em 0 1em 6em;
     box-sizing: unset;
     background-image: url("img/ace-card-template.svg");
-    background-size: cover;
+    background-size: contain;
     background-position: right;
 }
 
