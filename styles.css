@@ -266,7 +266,6 @@ section#consulting,#education {
     border-style: solid;
     border-color: #000;
     height: 75vh;
-    margin: 5em auto;
 }
 
 section div.section-wrapper {
@@ -275,7 +274,7 @@ section div.section-wrapper {
 
 section div div.flex-left {
     width: 60%;
-    margin: 3em;
+    padding: 5em auto;
     color: #fff;
     font-size: 1.25em;
     background-color: #B41C13;
