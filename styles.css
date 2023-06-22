@@ -204,7 +204,7 @@ section.about-me {
 div.about-me-overview {
     display: flex;
     flex-direction: row;
-    font-size: 2em;
+    font-size: 1.75em;
     gap: 2em;
 }
 
