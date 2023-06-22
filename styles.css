@@ -261,7 +261,12 @@ div#exp-title {
 
 /* --------------------------------- */
 
-
+section.section-wrapper {
+    height: 50vh;
+    border-width: 0.25em 0 0.25em 0;
+    border-style: solid;
+    border-color: #000;
+}
 
 /* --------------------------------- */
 
