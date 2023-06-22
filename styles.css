@@ -150,6 +150,12 @@ nav a img {
     width: 50px;
 }
 
+header.sticky {
+    background-color: #b41b13b0;
+    transition: .8s;
+    transition-delay: .5s;
+}
+
 .sticky nav a {
     font-size: .75em;
     gap: .2em;
