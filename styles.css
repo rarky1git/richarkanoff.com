@@ -278,6 +278,13 @@ section div div.flex-left {
     margin: 3em;
     color: #fff;
     font-size: 1.25em;
+    background-color: #B41C13;
+    clip-path: polygon(0 0, 100% 0, 75% 100%, 0% 100%);
+}
+
+section div div.flex-right {
+    background-color: gray;
+    clip-path: polygon(25% 0, 100% 0, 100% 100%, 0% 100%);
 }
 
 /* --------------------------------- */
