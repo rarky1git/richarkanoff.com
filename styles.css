@@ -149,7 +149,7 @@ nav a img {
 /* --------------------------------- */
 section.about-me {
     max-width: 80vw;
-    margin: 4em auto;
+    margin: 8em auto;
     gap: 4em;
 }
 
@@ -175,7 +175,7 @@ div.about-me-experience {
     gap: 2em;
     flex-wrap: nowrap;
     overflow-x: auto; /* Add this line */
-    margin: 2em 0;
+    margin: 6em 0;
 }
 /* --------------------------------- */
 /* EXPERIENCE TILES */
