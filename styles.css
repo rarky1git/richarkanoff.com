@@ -263,10 +263,15 @@ div#exp-title {
 
 section div.section-wrapper {
     height: 50vh;
+    margin: 5em auto;
     border-width: 0.25em 0 0.25em 0;
     border-style: solid;
     border-color: #000;
     background-color: #B41C13;
+}
+
+section div div.flex-left {
+    margin: 5em;
 }
 
 /* --------------------------------- */
