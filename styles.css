@@ -130,11 +130,13 @@ div.hero-left img {
 }
 
 div.hero-right {
+    width: 40%;
     flex-direction: column;
     margin: auto 10em auto 0em;
 }
 
 div.clip-right-container {
+    margin: 0 auto;
     width: 60%;
     clip-path: polygon(25% 0, 100% 0, 100% 100%, 0% 100%);
     background-color: #fff;
