@@ -70,6 +70,10 @@ header div nav a {
     color: #000;
 }
 
+header div nav a p {
+    margin: 0;
+}
+
 header div nav img {
     width: 25px;
     filter: invert(1);
