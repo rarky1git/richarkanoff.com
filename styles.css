@@ -66,10 +66,12 @@ header div nav {
 header div nav a {
     font-size: .75em;
     gap: .2em;
+    color: #000;
 }
 
 header div nav img {
     width: 25px;
+    color: #000;
 }
 
 header div nav.nav-flex-display {
