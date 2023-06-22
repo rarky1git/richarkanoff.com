@@ -261,7 +261,7 @@ div#exp-title {
 
 /* --------------------------------- */
 
-#consulting + #education {
+section#consulting + section#education {
     border-width: 0.25em 0 0.25em 0;
     border-style: solid;
     border-color: #000;
