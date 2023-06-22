@@ -118,7 +118,8 @@ div.hero-left {
     width: 60%;
     padding: 1em 0 1em 6em;
     box-sizing: unset;
-    background-image: url("img/ace-card-template.svg");
+    /* background-image: url("img/ace-card-template.svg"); */
+    background-image: none;
     background-size: contain;
     background-position: right;
 }
