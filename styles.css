@@ -16,6 +16,10 @@ body {
     margin: 0;
 }
 
+main {
+    overflow: visible;
+}
+
 h1 {
     font-weight: 800;
 }
