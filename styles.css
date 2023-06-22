@@ -130,7 +130,7 @@ div.hero-right p {
 /* PAGE NAV */
 /*  */
 /* --------------------------------- */
-header.page-nav {
+section.page-nav {
     background-color: #B41C13;
     border-width: 0.25em 0 0.25em 0;
     border-style: solid;
