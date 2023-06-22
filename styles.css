@@ -61,6 +61,7 @@ header div.section-wrapper {
 
 header div nav {
     display: none;
+    transition: .8s;
 }
 
 header div nav a {
@@ -85,7 +86,6 @@ header div nav.nav-flex-display {
     justify-content: space-between;
     align-items: center;
     gap: 2em;
-    transition: .8s;
 }
 
 header div div {
