@@ -36,6 +36,7 @@ header {
     padding: 1em;
     min-height: 2em;
     border-bottom: .25em solid #000 ;
+    background-color: (255,255,255, 0.7);
 }
 
 header h1 {
