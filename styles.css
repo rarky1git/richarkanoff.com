@@ -123,6 +123,7 @@ header.page-nav {
     border-width: 0.25em 0 0.25em 0;
     border-style: solid;
     border-color: #000;
+    padding: 0;
 }
 
 .page-nav nav {
@@ -255,7 +256,7 @@ div#exp-title {
 
 .sticky {
     position: sticky;
-    top: 50px;
+    top: 63px;
     width: 100%;
     background-color: #f5f5f5;
     z-index: 100;
