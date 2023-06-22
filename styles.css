@@ -136,8 +136,8 @@ div.hero-right {
 }
 
 div.clip-right-container {
-    margin: 0 auto;
-    width: 60%;
+    margin: 4em auto;
+    width: 130%;
     clip-path: polygon(25% 0, 100% 0, 100% 100%, 0% 100%);
     background-color: #fff;
 }
