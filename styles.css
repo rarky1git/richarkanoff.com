@@ -312,6 +312,7 @@ a.button {
     padding: .25em .5em;
     background-color: #9a160f;
     transition: .8s;
+    color: #fff;
 }
 
 a.button:hover {
