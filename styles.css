@@ -316,7 +316,7 @@ a.button {
     background-color: #B41C13;
     transition: .5s;
     color: #fff;
-    border-radius: .5em;
+    border-radius: .25em;
 }
 
 a.button:hover {
