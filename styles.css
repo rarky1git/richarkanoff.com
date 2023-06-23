@@ -306,6 +306,17 @@ section div div.flex-right {
 /* universal classes */
 
 /* --------------------------------- */
+
+a.button {
+    padding: .5em .25em;
+    background-color: #9a160f;
+}
+
+a.button:hover {
+    background-color: #B41C13;
+    box-shadow: .25em .25em 5px 0px rgba(0, 0, 0, 0.75);
+}
+
 .section-wrapper {
     width: 100%;
     max-width: 80vw;
