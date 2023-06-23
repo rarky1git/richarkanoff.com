@@ -160,11 +160,6 @@ div.hero-right p {
     font-size: 2.5em;    
 }
 
-div.hero-right a {
-    padding: 1em .5em;
-    background-color: #B41C13;
-    border-radius: .5em;
-}
 /* --------------------------------- */
 /*  */
 /* PAGE NAV */
@@ -300,8 +295,6 @@ section div div.flex-left {
     font-size: 1.25em;
 }
 
-section div div.flex-right {
-}
 
 /* --------------------------------- */
 
@@ -310,10 +303,11 @@ section div div.flex-right {
 /* --------------------------------- */
 
 a.button {
-    padding: .25em .5em;
+    padding: .5em 1em;
     background-color: #9a160f;
-    transition: .8s;
+    transition: .5s;
     color: #fff;
+    border-radius: .5em;
 }
 
 a.button:hover {
