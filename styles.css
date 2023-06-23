@@ -42,6 +42,7 @@ header {
     min-height: 2em;
     border-bottom: .25em solid #000 ;
     background-color: rgba(255,255,255, 0.9);
+    z-index: 1000;
 }
 
 header h1 {
