@@ -157,7 +157,11 @@ div.hero-right h1 {
 }
 
 div.hero-right p {
-    font-size: 2.5em;    
+    font-size: 2.25em;    
+}
+
+div.hero-right a {
+    font-size: 1.5em;
 }
 
 /* --------------------------------- */
