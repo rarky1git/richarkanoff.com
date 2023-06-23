@@ -313,7 +313,7 @@ section div div.flex-left {
 /* --------------------------------- */
 
 a.button {
-    padding: .5em 1em;
+    padding: .5em .75em;
     background-color: #B41C13;
     transition: .5s;
     color: #fff;
@@ -321,7 +321,7 @@ a.button {
 }
 
 a.button:hover {
-    background-color: #e63e35;
+    background-color: #c92e26;
     box-shadow: .25em .25em 5px 0px rgba(0, 0, 0, 0.75);
 }
 
