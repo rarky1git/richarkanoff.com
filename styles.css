@@ -309,8 +309,9 @@ section div div.flex-right {
 /* --------------------------------- */
 
 a.button {
-    padding: .5em .25em;
+    padding: .25em .5em;
     background-color: #9a160f;
+    transition: .8s;
 }
 
 a.button:hover {
